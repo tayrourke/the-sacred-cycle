@@ -1,0 +1,15 @@
+{
+  "name": "The Sacred Cycle",
+  "short_name": "The Sacred Cycle",
+  "start_url": "/the-sacred-cycle/",
+  "display": "standalone",
+  "background_color": "#b05a52",
+  "theme_color": "#b05a52",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
